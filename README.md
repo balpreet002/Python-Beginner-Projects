@@ -5,4 +5,12 @@
     (a) input() \
     (b) f-strings \
     (c) Variables \
-    (d) String formatting 
+    (d) String formatting \
+\
+**Project 2: Guess the Number**\
+  Display the following knowledge:\
+    (a) Random Function \
+    (b) While Loops \
+    (c) If, Elif Statements \
+    (d) f-strings 
+    
