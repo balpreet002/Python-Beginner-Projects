@@ -18,4 +18,11 @@
   Display the following knowledge:\
     (a) Python standard library \
     (b) Logical Operators (and, or) \
-    (c) Conditional Logic (If)
+    (c) Conditional Logic (If)\
+    \
+**Project 4: Hangman Game**\
+  Display the following knowledge:\
+    (a) Python functions \
+    (b) Loops and control flow \
+    (c) Conditional Logic (If, Elif, Else) \
+    (d) Lists, sets, and string manipulation
