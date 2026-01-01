@@ -11,6 +11,11 @@
   Display the following knowledge:\
     (a) Random Function \
     (b) While Loops \
-    (c) If, Elif Statements \
-    (d) f-strings 
-    
+    (c) Conditional Logic (If, Elif)\
+    (d) f-strings \
+    \
+**Project 3: Rock Paper Scissors**\
+  Display the following knowledge:\
+    (a) Python standard library \
+    (b) Logical Operators (and, or) \
+    (c) Conditional Logic (If)
