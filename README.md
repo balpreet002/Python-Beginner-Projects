@@ -25,4 +25,10 @@
     (a) Python functions \
     (b) Loops and control flow \
     (c) Conditional Logic (If, Elif, Else) \
-    (d) Lists, sets, and string manipulation
+    (d) Lists, sets, and string manipulation \
+\
+**Project 5: Calculator**\
+  Display the following knowledge:\
+    (a) Python functions \
+    (b) Conditional Logic (If, Elif, Else) \
+    (c)  input()
