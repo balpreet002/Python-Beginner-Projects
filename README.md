@@ -13,27 +13,33 @@
     (b) Conditional Logic (If, Elif)\
     (c) Logical Operator \
     (d) Boolean \
-    \
+ \
 **Project 3: Calculator**\
   Display the following knowledge:\
     (a) Python functions \
     (b) Conditional Logic (If, Elif, Else) \
     (c)  input() \
 \
-**Project 4: Guess the Number**\
+**Project 4: Translator**\
+  Display the following knowledge:\
+    (a) Conditional Logic (If, Elif) \
+    (b) For Loops \
+    (c) Lower and Upper case \
+  \
+**Project 5: Guess the Number**\
   Display the following knowledge:\
     (a) Random Function \
     (b) While Loops \
     (c) Conditional Logic (If, Elif)\
     (d) f-strings \
     \
-**Project 5: Rock Paper Scissors**\
+**Project 6: Rock Paper Scissors**\
   Display the following knowledge:\
     (a) Python standard library \
     (b) Logical Operators (and, or) \
     (c) Conditional Logic (If)\
     \
-**Project 6: Hangman Game**\
+**Project 7: Hangman Game**\
   Display the following knowledge:\
     (a) Python functions \
     (b) Loops and control flow \
